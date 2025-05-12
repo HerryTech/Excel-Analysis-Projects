@@ -2,9 +2,9 @@
 
 This folder contains various Excel-based projects. Each project utilizes a range of Excel features such as formulas, charts, pivot tables, and data analysis techniques. 
 
-## Projects
+## 🏆 Projects
 
-### 1. **Personal Budget Tracker**
+### 1. 🔍 **Personal Budget Tracker**
 A simple monthly budget tracker built in Excel. It uses tables, formulas, and charts to help track income, expenses, and savings by month.
 
 **Features:**
