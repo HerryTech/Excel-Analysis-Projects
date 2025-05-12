@@ -13,7 +13,7 @@ A simple monthly budget tracker built in Excel. It uses tables, formulas, and ch
 - Tables for charts
 - Visual charts for income vs expenses and category breakdown
 
-You can find the [Personal Budget Tracker Project here](./Personal_Budget_Tracker).
+You can find the Personal Budget Tracker Project [here](./Personal_Budget_Tracker).
 
 _More projects will be added soon!_
 
