@@ -12,5 +12,5 @@ A simple monthly budget tracker built in Excel using tables, formulas, and chart
 ![Dashboard](screenshots/dashboard.png)
 
 ## Usage
-1. Enter transactions in the `Transactions` sheet
+1. Enter transactions in the `Monthly_Tracker` sheet
 2. See summary and charts update automatically
