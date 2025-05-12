@@ -7,9 +7,8 @@ A simple monthly budget tracker built in Excel using tables, formulas, and chart
 - Monthly summary with savings
 - Charts for income vs expenses, and category breakdown
 
-## Demo
-
-![Dashboard](Screenshots/Dashboard.png)
+## Dashboard
+Access the simple dashboard [here](./Screenshots/Dashboard.png).
 
 ## Usage
 1. Enter transactions in the `Monthly_Tracker` sheet
