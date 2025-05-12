@@ -15,11 +15,6 @@ A simple monthly budget tracker built in Excel. It uses tables, formulas, and ch
 
 You can find the [Personal Budget Tracker Project here](./Personal_Budget_Tracker).
 
----
-
-### Future Projects
-More Excel projects will be added soon. Stay tuned for upcoming files that cover different use cases, and other useful tools.
-
----
+_More projects will be added soon!_
 
 
