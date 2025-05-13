@@ -11,4 +11,4 @@ A simple and interactive task management tool built in Microsoft Excel, using ch
 
  ## 📸 Demo Screenshot
 
-Access the To-do-list screenshot [here](./Screenshots/to-do-list.png)
+Access the To-do-list screenshot [here](./Screenshots/to-do-list.png).
