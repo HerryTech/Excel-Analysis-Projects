@@ -9,6 +9,6 @@ A simple and interactive task management tool built in Microsoft Excel, using ch
 - Color-coded priorities (High, Medium, Low)
 - Task counter to see how many tasks remain
 
-📸 Demo Screenshot:
-
+ ## 📸Demo Screenshot:
+ 
 Access the To-do-list screenshot [here](./Screenshots/to-do-list.png)
