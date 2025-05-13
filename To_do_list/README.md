@@ -9,16 +9,6 @@ A simple and interactive task management tool built in Microsoft Excel, using ch
 - Color-coded priorities (High, Medium, Low)
 - Task counter to see how many tasks remain
 
-📌 How to Use:
-
-Open To-Do List.xlsx
-
-Add your tasks
-
-Check the box when a task is complete
-
-Prioritize your tasks using the drop-down
-
 📸 Demo Screenshot:
 
-(Optional: put a screenshot in screenshots/ folder and link it here)
+Access the To-do-list screenshot [here](./Screenshots/to-do-list.png)
