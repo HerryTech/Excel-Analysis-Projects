@@ -9,7 +9,7 @@ A simple monthly budget tracker built in Excel. It uses tables, formulas, and ch
 
 **Folder:** [Personal_Budget_Tracker](./Personal_Budget_Tracker).
 
-### 2. **Simple To Do List**
+### 2. 🔍 **Simple To Do List**
 A simple Excel-based task manager using checkboxes, dropdowns, and conditional formatting to track task status, priorities, and deadlines. It also includes a live counter for remaining tasks.
 
 **Folder:** [To_do_list](./To_do_list).
