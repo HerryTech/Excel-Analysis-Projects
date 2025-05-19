@@ -14,6 +14,11 @@ A simple Excel-based task manager using checkboxes, dropdowns, and conditional f
 
 **Folder:** [To_do_list](./To_do_list).
 
+### 3. 🔍 **Student Grade Book**
+This Excel-based Student Grade Book project calculates average scores and assigns letter grades using AVERAGE and IF formulas. It helps track student performance and includes charts for visual insights.
+
+**Folder:** [Student_Gradebook](./Student_Gradebook)
+
 _More projects will be added soon!_
 
 
