@@ -1,6 +1,6 @@
 # Student Grade Book
 
-This is an Excel project that tracks students' academic performance, calculates their average scores, and assigns grades automatically using formulas. It also features a simple dashboard with charts for visualizing the data.
+This is an Excel project that tracks students' academic performance, calculates their average scores, and assigns grades automatically using formulas. It also features simple charts for visualizing the data.
 
 ## Project Objective
 
