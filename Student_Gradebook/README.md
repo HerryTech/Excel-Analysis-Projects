@@ -13,4 +13,4 @@ The goal is to simulate a basic **Student Grade Book System** using Microsoft Ex
 
  ## Visuals
 
-Access the charts [here](./Image/student-grade-book.png).
+Access the charts [here](./Image/student-grade-bok.png).
