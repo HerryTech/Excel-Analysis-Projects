@@ -11,4 +11,6 @@ The goal is to simulate a basic **Student Grade Book System** using Microsoft Ex
 - Automatically assigning letter grades using formulas
 - Visualizing performance through charts
 
+ ## Visuals
 
+Access the charts [here](./Image/student-grade-book.png).
