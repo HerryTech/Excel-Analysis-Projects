@@ -24,8 +24,6 @@ An Excel-based interactive dashboard that analyzes bike purchasing trends by gen
 
 **Folder:** [Bike_Sales](./Bike_Sales)
 
-
-
 _More projects will be added soon!_
 
 
