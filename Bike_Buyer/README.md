@@ -19,13 +19,8 @@ This project provides an insights into bike purchase behavior across multiple de
   - **Line Chart** – Purchase by Age Bracket
   - **Line Chart** – Purchase by Commute Distance
 
-- **Metrics Tracked:**
-  - Average Income
-  - Count of Purchased Bikes
-  - Demographic Breakdown
-
 ## Dashboard
 
-Access the Bike Sales Dashboard [here](./Bike_Sales_Dashboard.png)
+Access the Bike Sales Dashboard [here](./Image/Bike_Sales_Dashboard.png)
 
 
