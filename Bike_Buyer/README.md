@@ -9,15 +9,12 @@ This project provides an insights into bike purchase behavior across multiple de
 
 ---
 
-## 🧩 Features
+## Features
 
 - **Slicers for Interactive Filtering:**
   - Marital Status
   - Region
   - Occupation
-  - Gender
-  - Age Bracket
-  - Commute Distance
 
 - **Visualizations:**
   - **Bar Chart** – Purchase by Gender and Average Income
@@ -31,49 +28,9 @@ This project provides an insights into bike purchase behavior across multiple de
 
 ---
 
-## 📁 Files
+## Dashboard
 
-- `Bike_Sales_Dashboard.xlsx` – Contains raw data, pivot tables, and the interactive dashboard (not included in this repo preview).
-- `Bike_Sales_Dashboard.png` – Screenshot of the final dashboard.
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - Conditional Formatting
+![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
 
 ---
 
-## 📈 Key Insights
-
-- **Middle-aged customers** show the highest purchase count.
-- **Males with higher income** are more likely to purchase bikes.
-- **Short-distance commuters (0–1 miles)** tend to buy bikes more.
-- **Professionals and Skilled Manual workers** have a stronger tendency to purchase.
-
----
-
-## ✅ How to Use
-
-1. Open the `Bike_Sales_Dashboard.xlsx` file in Excel.
-2. Use the slicers on the left to filter the data by different customer segments.
-3. The charts will update dynamically to reflect your selections.
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or collaboration opportunities, feel free to reach out at:
-
-**[your-email@example.com]**
-
----
-
-## 📌 Status
-
-- Project: **Completed**
-- Ready for extension into **Power BI**, **Tableau**, or web-based dashboards.
