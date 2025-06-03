@@ -7,8 +7,6 @@ This project provides an insights into bike purchase behavior across multiple de
 - How does commute distance affect bike purchasing decisions?
 - What trends exist across regions, marital status, and occupations?
 
----
-
 ## Features
 
 - **Slicers for Interactive Filtering:**
@@ -26,11 +24,8 @@ This project provides an insights into bike purchase behavior across multiple de
   - Count of Purchased Bikes
   - Demographic Breakdown
 
----
-
 ## Dashboard
 
-![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
+Access the Bike Sales Dashboard [here](./Bike_Sales_Dashboard.png)
 
----
 
