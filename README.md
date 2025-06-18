@@ -24,6 +24,10 @@ An Excel-based interactive dashboard that analyzes bike purchasing trends by gen
 
 **Folder:** [Bike_Sales](./Bike_Sales)
 
+### 5. **Coffee Sales**
+
+_In progress_
+
 _More projects will be added soon!_
 
 
