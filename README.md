@@ -26,7 +26,7 @@ An Excel-based interactive dashboard that analyzes bike purchasing trends by gen
 
 ### 5. **Coffee Sales**
 
-_In progress_
+_In progress_...
 
 _More projects will be added soon!_
 
