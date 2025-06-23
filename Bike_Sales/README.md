@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Sales Dashboard
+# Bike Sales Dashboard
 
 This project provides an insights into bike purchase behavior across multiple demographics and commute patterns. It answers key business questions such as:
 
