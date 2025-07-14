@@ -31,6 +31,6 @@ An interactive Excel dashboard that visualizes coffee sales data across product 
 
 ### 6. **Road Accident** _(In progress)_
 
-_More projects will be added soon!..._
+_More projects will be added soon!_
 
 
