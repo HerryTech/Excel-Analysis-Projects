@@ -1,19 +1,17 @@
 # Road Accident Project
+
 This project provides insights into road accident casualties across vehicle types, road conditions, locations, and time periods. It helps answer key safety and policy questions such as:
 
 * What are the total, fatal, serious, and slight casualty rates?
-
 * Which vehicle types are most involved in accidents?
-
 * How do road type, surface, and light conditions affect accident outcomes?
-
 * What are the trends in casualties over time?
 
 ## Features
+
 - **Slicers for Interactive Filtering:**
 
 * Accident Date (via Year Timeline)
-
 * Location Type (Urban / Rural)
 
 - **Visualizations:**
