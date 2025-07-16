@@ -11,22 +11,17 @@ This project provides insights into road accident casualties across vehicle type
 
 - **Slicers for Interactive Filtering:**
 
-* Accident Date (via Year Timeline)
-* Location Type (Urban / Rural)
+    * Accident Date (via Year Timeline)
+    * Location Type (Urban / Rural)
 
 - **Visualizations:**
 
-* Line Chart – Monthly Casualty Trends (2021 vs. 2022)
-
-* Bar Chart – Casualties by Road Type (e.g., Single Carriageway, Roundabout)
-
-* Bar Chart – Casualties by Road Surface (Dry, Wet, Snow/Ice)
-
-* Donut Charts – Casualties by Light Condition & Location
-
-* KPI Cards – Fatal, Serious, and Slight Casualty Counts and Percentages
-
-* Icons with Metrics – Casualties by Vehicle Type (Cars, Motorcycles, Trucks, Buses, etc.)
+    * Line Chart – Monthly Casualty Trends (2021 vs. 2022)
+    * Bar Chart – Casualties by Road Type (e.g., Single Carriageway, Roundabout)
+    * Bar Chart – Casualties by Road Surface (Dry, Wet, Snow/Ice)
+    * Donut Charts – Casualties by Light Condition & Location
+    * KPI Cards – Fatal, Serious, and Slight Casualty Counts and Percentages
+    * Icons with Metrics – Casualties by Vehicle Type (Cars, Motorcycles, Trucks, Buses, etc.)
 
 ## Dashboard
 Access the Road Accident Dashboard [here](./Image/Road_Accident.png)
