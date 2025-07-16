@@ -5,9 +5,9 @@ This project provides insights into road accident casualties across vehicle type
 
 * Which vehicle types are most involved in accidents?
 
-- How do road type, surface, and light conditions affect accident outcomes?
+* How do road type, surface, and light conditions affect accident outcomes?
 
-- What are the trends in casualties over time?
+* What are the trends in casualties over time?
 
 Features
 Slicers for Interactive Filtering:
