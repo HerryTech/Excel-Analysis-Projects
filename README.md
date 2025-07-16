@@ -29,7 +29,10 @@ An interactive Excel dashboard that visualizes coffee sales data across product 
 
 **Folder:** [Coffee_Sales](./Coffee_Sales).
 
-### 6. **Road Accident** _(In progress)_
+### 6. **Road Accident**
+An Excel-based dashboard that provides insights into road accident casualties by vehicle type, road condition, location, and time period. It features charts and filters that highlight trends in fatal, serious, and slight casualties, helping identify risk factors and inform road safety decisions.
+
+**Folder:** [Road_Accident](./Road_Accident).
 
 _More projects will be added soon!_
 
