@@ -9,8 +9,8 @@ This project provides insights into road accident casualties across vehicle type
 
 * What are the trends in casualties over time?
 
-Features
-Slicers for Interactive Filtering:
+## Features
+- **Slicers for Interactive Filtering:**
 
 Accident Date (via Year Timeline)
 
