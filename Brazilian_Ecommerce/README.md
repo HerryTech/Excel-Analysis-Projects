@@ -1,3 +1,3 @@
 # Sales Performance and Profitability Analysis for a Brazilian E commerce Marketplace
 
-This project is ongoing
+This project is ongoing...
