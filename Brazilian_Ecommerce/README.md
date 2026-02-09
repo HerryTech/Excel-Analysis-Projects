@@ -1,3 +1,4 @@
 # Sales Performance and Profitability Analysis for a Brazilian E commerce Marketplace
 
-This project is ongoing...
+## Dashboard
+Access the Brazilian Ecommerce Dashboard [here](./Image/Brazilian_Ecommerce.png)
