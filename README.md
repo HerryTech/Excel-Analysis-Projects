@@ -34,6 +34,6 @@ An Excel-based dashboard that provides insights into road accident casualties by
 
 **Folder:** [Road_Accident](./Road_Accident).
 
-_More projects will be added soon!_...
+_More projects will be added soon!_
 
 
