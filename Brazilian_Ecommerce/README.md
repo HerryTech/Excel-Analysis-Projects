@@ -5,4 +5,3 @@ This project provides insights into sales performance, customer behavior, and pr
 ## Dashboard
 Access the Brazilian Ecommerce Dashboard [here](./Image/Brazilian_Ecommerce.png)
 
-Project in Progress....
