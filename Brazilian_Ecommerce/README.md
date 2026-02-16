@@ -9,6 +9,13 @@ This project provides insights into sales performance, customer behavior, and pr
 * Which states contribute the highest revenue?
 * Is there a relationship between revenue and number of orders by category?
 
+## Features
+
+- **Slicers for Interactive Filtering:**
+    * Year (2016, 2017, 2018)
+    * Month (Jan–Dec)
+    * Product Category
+
 ## Dashboard
 Access the Brazilian Ecommerce Dashboard [here](./Image/Brazilian_Ecommerce.png)
 
