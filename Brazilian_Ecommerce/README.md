@@ -23,20 +23,13 @@ This project provides insights into sales performance, customer behavior, and pr
     * Average Order Value
 
 - **Visualizations:**
-
-Line Chart – Sales Trend Over Time (Revenue by Month/Year)
-
-Horizontal Bar Chart – Revenue by Product Category
-
-Donut Chart – Order Status Distribution (Delivered, Canceled, Others)
-
-Donut Chart – Payment Type Distribution (Credit Card, Debit Card, Boleto, Voucher)
-
-Bar Chart – Revenue vs. Number of Orders by Category
-
-Horizontal Bar Chart – Top 10 Revenue by State
-
-Date Timeline – Interactive Monthly Filtering
+    * Line Chart – Sales Trend Over Time (Revenue by Month/Year)
+    * Horizontal Bar Chart – Revenue by Product Category
+    * Donut Chart – Order Status Distribution (Delivered, Canceled, Others)
+    * Donut Chart – Payment Type Distribution (Credit Card, Debit Card, Boleto, Voucher)
+    * Bar Chart – Revenue vs. Number of Orders by Category
+    * Horizontal Bar Chart – Top 10 Revenue by State
+    * Date Timeline – Interactive Monthly Filtering
 
 ## Dashboard
 Access the Brazilian Ecommerce Dashboard [here](./Image/Brazilian_Ecommerce.png)
