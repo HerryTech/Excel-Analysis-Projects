@@ -34,6 +34,11 @@ An Excel-based dashboard that provides insights into road accident casualties by
 
 **Folder:** [Road_Accident](./Road_Accident).
 
+### 7. **Brazilian Ecommerce
+An Excel-based sales analysis project focused on a Brazilian e-commerce marketplace. It explores overall business performance by examining revenue growth, customer purchasing behavior, and product category performance. The dashboard provides insights into sales trends over time and highlights key areas driving profitability to support better business decision-making.
+
+**Folder:** [Brazilian_Ecommerce](./Brazilian_Ecommerce).
+
 _More projects will be added soon!_
 
 
