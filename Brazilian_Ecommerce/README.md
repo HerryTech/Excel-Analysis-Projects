@@ -17,13 +17,12 @@ This project provides insights into sales performance, customer behavior, and pr
     * Product Category
 
 - **Key Performance Indicators (KPI Cards):**
-    
     * Total Revenue
     * Total Orders
     * Total Customers
     * Average Order Value
 
-Visualizations:
+- **Visualizations:**
 
 Line Chart – Sales Trend Over Time (Revenue by Month/Year)
 
