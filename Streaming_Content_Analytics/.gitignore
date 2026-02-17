@@ -1,0 +1,4 @@
+# Ignore temorary excel files
+~$*
+*.tmp
+*.bak
