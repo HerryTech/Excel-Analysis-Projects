@@ -21,6 +21,6 @@ This project provides an insights into bike purchase behavior across multiple de
 
 ## Dashboard
 
-Access the Bike Sales Dashboard [here](./Image/Bike_Sales_Dashboard.png)
+Access the Bike Sales Dashboard ![here](./Image/Bike_Sales_Dashboard.png)
 
 
