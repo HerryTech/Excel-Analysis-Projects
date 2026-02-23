@@ -32,5 +32,5 @@ This project provides insights into sales performance, customer behavior, and pr
     * Date Timeline – Interactive Monthly Filtering
 
 ## Dashboard
-Access the Brazilian Ecommerce Dashboard [here](./Image/Brazilian_Ecommerce.png)
+Access the Brazilian Ecommerce Dashboard ![here](./Image/Brazilian_Ecommerce.png)
 
