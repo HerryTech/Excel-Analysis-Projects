@@ -24,4 +24,4 @@ This project provides insights into coffee sales performance across product type
 
 ## Dashboard
 
-Access the Coffee Sales Dashboard [here](./Image/Coffee_dashboard.png)
+Access the Coffee Sales Dashboard ![here](./Image/Coffee_dashboard.png)
