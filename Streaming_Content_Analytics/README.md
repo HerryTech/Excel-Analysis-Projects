@@ -72,39 +72,11 @@ The dataset was cleaned and structured before loading into the Data Model.
 
 - Excel Pivot Tables
 - Power Pivot (Data Model)
-- DAX Measures
 - Slicers
 - KPI Cards
 - Combo Charts
 - Donut & Bar Charts
 - Custom Dark Theme Dashboard Layout
-
----
-
-## 📐 Key DAX Measures
-
-### Distinct Titles
-```DAX
-Distinct Titles :=
-DISTINCTCOUNT(Analysis_File[ID])
-```
-
-### % Movies (Filter-Context Controlled)
-```DAX
-% Movies :=
-DIVIDE(
-    CALCULATE(
-        DISTINCTCOUNT(Analysis_File[ID]),
-        Analysis_File[Type] = "Movie"
-    ),
-    CALCULATE(
-        DISTINCTCOUNT(Analysis_File[ID]),
-        ALL(Analysis_File[Type])
-    )
-)
-```
-
-This ensures KPI percentages remain stable even when slicers are applied.
 
 ---
 
@@ -162,7 +134,6 @@ This dashboard supports:
 
 - Advanced Excel Dashboard Design
 - Power Pivot Data Modeling
-- DAX Calculations
 - Filter Context Management
 - KPI Engineering
 - Data Visualization
