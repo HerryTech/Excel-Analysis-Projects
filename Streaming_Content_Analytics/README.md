@@ -135,14 +135,6 @@ This dashboard supports:
 
 All visuals and KPIs update dynamically.
 
-## Future Improvements
-
-- Add forecasting models
-- Integrate additional streaming datasets
-- Build Power BI version
-- Add dynamic ranking filters
-- Include profitability proxy metrics
-
 ## Project Purpose
 
 This project demonstrates the ability to:
