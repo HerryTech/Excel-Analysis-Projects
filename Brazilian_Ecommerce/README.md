@@ -34,12 +34,11 @@ All KPIs dynamically update based on slicer selections.
 **Period Covered:** 2016 – 2018  
 
 ### Key Tables:
-- Orders
 - Customers
+- Orders
+- Order Items
 - Products
 - Payments
-- Order Items
-- Geographic (State-Level Data)
 
 ### Key Columns:
 - Order ID
