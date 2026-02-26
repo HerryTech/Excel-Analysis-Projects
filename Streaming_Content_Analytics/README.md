@@ -143,5 +143,3 @@ This project demonstrates the ability to:
 - Build interactive dashboards in Excel
 - Apply DAX filter context control properly
 - Translate data into strategic recommendations
-
-Part of a Data Analytics portfolio showcasing practical Business Intelligence solutions using Excel.
