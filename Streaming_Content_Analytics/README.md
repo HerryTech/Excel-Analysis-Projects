@@ -30,7 +30,7 @@ All KPIs dynamically update based on slicer interaction.
 
 ## Dataset
 
-**Source:** Netflix Historical Dataset (Kaggle)
+**Source:** Netflix Historical Dataset (Kaggle)  
 **Total Records:** 7,871  
 **Countries Represented:** 122  
 **Primary Genres:** 11  
