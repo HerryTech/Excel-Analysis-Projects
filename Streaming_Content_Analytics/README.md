@@ -1,4 +1,4 @@
-# Streaming Content Strategy Analysis (Excel Dashboard)
+# Streaming Content Strategy Analysis
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ All KPIs dynamically update based on slicer interaction.
 
 ## Dataset
 
-**Source:** Netflix Historical Content Dataset  
+**Source:** Netflix Historical Dataset (Kaggle)
 **Total Records:** 7,871  
 **Countries Represented:** 122  
 **Primary Genres:** 11  
@@ -68,30 +68,29 @@ The dataset was cleaned and structured before loading into the Data Model.
 - KPI Cards
 - Combo Charts
 - Donut & Bar Charts
-- Custom Dark Theme Dashboard Layout
 
 ## Dashboard Components
 
-### 1️⃣ Content Growth Over Time
+### 1. Content Growth Over Time
 - Annual content additions
 - Year-over-Year growth %
 - Identifies peak expansion periods
 
-### 2️⃣ Movies vs TV Shows Over Time
+### 2. Movies vs TV Shows Over Time
 - Visual comparison of content type growth
 - Highlights long-term strategy shifts
 
-### 3️⃣ Top Genres
+### 3️. Top Genres
 - Drama & Romance leads
 - Comedy and Documentary follow
 - Clear long-tail genre distribution
 
-### 4️⃣ Rating Group Distribution
+### 4️. Rating Group Distribution
 - Mature content dominates
 - Teen content follows closely
 - Kids and Unrated form smaller segments
 
-### 5️⃣ Top Producing Countries
+### 5. Top Producing Countries
 - United States leads significantly
 - India second
 - UK, Canada, France, Japan among top contributors
@@ -124,7 +123,7 @@ This dashboard supports:
 - Business Insight Extraction
 - Analytical Storytelling
 
-## ▶ How to Use
+## How to Use
 
 1. Download the Excel file
 2. Open using Excel 2019 or later
