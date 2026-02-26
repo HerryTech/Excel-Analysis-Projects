@@ -1,6 +1,6 @@
-# 📊 Streaming Content Strategy Analysis (Excel Dashboard)
+# Streaming Content Strategy Analysis (Excel Dashboard)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive Excel-based Business Intelligence dashboard analyzing historical Netflix content data to uncover strategic insights about streaming content distribution and growth trends.
 
@@ -14,13 +14,11 @@ The dashboard answers key strategic questions:
 
 Built entirely in Microsoft Excel using Power Pivot and DAX, this project demonstrates advanced dashboard development and analytical modeling skills.
 
----
-
-## 🖥 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](./Image/Streaming_Content_Analytics.png)
 
-### 🔢 KPI Summary
+### KPI Summary
 
 - **Total Titles:** 7,871  
 - **Total Movies:** 5,634  
@@ -30,9 +28,7 @@ Built entirely in Microsoft Excel using Power Pivot and DAX, this project demons
 
 All KPIs dynamically update based on slicer interaction.
 
----
-
-## 📂 Dataset
+## Dataset
 
 **Source:** Netflix Historical Content Dataset  
 **Total Records:** 7,871  
@@ -49,9 +45,7 @@ All KPIs dynamically update based on slicer interaction.
 - Country
 - Duration
 
----
-
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The dataset was cleaned and structured before loading into the Data Model.
 
@@ -64,11 +58,9 @@ The dataset was cleaned and structured before loading into the Data Model.
 - Built structured Excel Tables
 - Loaded data into Power Pivot Data Model
 
----
+## Technical Implementation
 
-## ⚙ Technical Implementation
-
-### 🔹 Tools & Features Used
+### Tools & Features Used
 
 - Excel Pivot Tables
 - Power Pivot (Data Model)
@@ -78,9 +70,7 @@ The dataset was cleaned and structured before loading into the Data Model.
 - Donut & Bar Charts
 - Custom Dark Theme Dashboard Layout
 
----
-
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### 1️⃣ Content Growth Over Time
 - Annual content additions
@@ -106,9 +96,7 @@ The dataset was cleaned and structured before loading into the Data Model.
 - India second
 - UK, Canada, France, Japan among top contributors
 
----
-
-## 📈 Key Insights
+## Key Insights
 
 - Content production accelerated significantly after 2015
 - Movies dominate the overall catalog size
@@ -116,9 +104,7 @@ The dataset was cleaned and structured before loading into the Data Model.
 - A small number of countries drive the majority of content
 - Genre concentration suggests strategic investment clustering
 
----
-
-## 🎯 Business Value
+## Business Value
 
 This dashboard supports:
 
@@ -128,9 +114,7 @@ This dashboard supports:
 - Rating-based audience targeting
 - Regional production evaluation
 
----
-
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - Advanced Excel Dashboard Design
 - Power Pivot Data Modeling
@@ -139,8 +123,6 @@ This dashboard supports:
 - Data Visualization
 - Business Insight Extraction
 - Analytical Storytelling
-
----
 
 ## ▶ How to Use
 
@@ -154,9 +136,7 @@ This dashboard supports:
 
 All visuals and KPIs update dynamically.
 
----
-
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add forecasting models
 - Integrate additional streaming datasets
@@ -164,9 +144,7 @@ All visuals and KPIs update dynamically.
 - Add dynamic ranking filters
 - Include profitability proxy metrics
 
----
-
-## 📌 Project Purpose
+## Project Purpose
 
 This project demonstrates the ability to:
 
