@@ -39,6 +39,9 @@ An Excel-based sales analysis project focused on a Brazilian e-commerce marketpl
 
 **Folder:** [Brazilian_Ecommerce](./Brazilian_Ecommerce)
 
+### 8. Streaming Content Strategy Analysis
+An interactive Excel-based Business Intelligence dashboard analyzing historical Netflix content data to uncover strategic insights into content growth, distribution, and platform strategy. Built using Power Pivot, DAX, Pivot Tables, KPI Cards, slicers, and dynamic charts, the project examines content growth over time, Movies vs TV Shows distribution, genre dominance, rating group trends, and top producing countries. Key insights include rapid expansion after 2015, movie dominance in overall catalog size, concentration of mature-rated content, and strong contribution from a small group of leading production countries. The dashboard demonstrates advanced data modeling, filter context management, KPI engineering, and executive-level analytical storytelling in Excel.
+
 _More projects will be added soon!_
 
 
