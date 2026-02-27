@@ -1,4 +1,4 @@
-# Streaming Content Strategy Analysis Using Netflix Historical Data as an Industry Proxy
+# Streaming Content Strategy Analysis (Netflix Industry Proxy)
 
 ## Project Overview
 
